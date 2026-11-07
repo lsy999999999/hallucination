@@ -1,0 +1,10 @@
+[
+  {"id":"selfcheckgpt", "title":"SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models", "url":"https://arxiv.org/pdf/2303.08896", "paper_page":"https://aclanthology.org/2023.emnlp-main.557/"},
+  {"id":"alce", "title":"Enabling Large Language Models to Generate Text with Citations", "url":"https://arxiv.org/pdf/2305.14627", "paper_page":"https://aclanthology.org/2023.emnlp-main.398/"},
+  {"id":"factscore", "title":"FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation", "url":"https://arxiv.org/pdf/2305.14251", "paper_page":"https://aclanthology.org/2023.emnlp-main.741/"},
+  {"id":"selfrag", "title":"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection", "url":"https://arxiv.org/pdf/2310.11511", "paper_page":"https://arxiv.org/abs/2310.11511"},
+  {"id":"semanticentropy", "title":"Detecting hallucinations in large language models using semantic entropy", "url":"https://www.nature.com/articles/s41586-024-07421-0.pdf", "paper_page":"https://www.nature.com/articles/s41586-024-07421-0", "optional":true},
+  {"id":"ragas", "title":"RAGAS: Automated Evaluation of Retrieval Augmented Generation", "url":"https://arxiv.org/pdf/2309.15217", "paper_page":"https://arxiv.org/abs/2309.15217"},
+  {"id":"ares", "title":"ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems", "url":"https://arxiv.org/pdf/2311.09476", "paper_page":"https://aclanthology.org/2024.naacl-long.20/"},
+  {"id":"rag", "title":"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks", "url":"https://arxiv.org/pdf/2005.11401", "paper_page":"https://arxiv.org/abs/2005.11401"}
+]

@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+.DS_Store
+data/papers/
+data/corpus.jsonl
+results/*
+!results/.gitkeep
