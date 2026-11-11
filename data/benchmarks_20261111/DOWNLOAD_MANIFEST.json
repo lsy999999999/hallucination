@@ -1,0 +1,64 @@
+{
+  "ragtruth": {
+    "repo": "ParticleMedia/RAGTruth",
+    "commit": "c103204b9ce28d6bbad859304bf30de72b8ed8fe",
+    "files": {
+      "README.md": {
+        "url": "https://raw.githubusercontent.com/ParticleMedia/RAGTruth/c103204b9ce28d6bbad859304bf30de72b8ed8fe/README.md",
+        "sha256": "3686178d505a38cb20a94827917369bcb9d0aa44cf5154d7ddbac740ee06628d",
+        "bytes": 21234
+      },
+      "dataset/response.jsonl": {
+        "url": "https://raw.githubusercontent.com/ParticleMedia/RAGTruth/c103204b9ce28d6bbad859304bf30de72b8ed8fe/dataset/response.jsonl",
+        "sha256": "e4c2e4ac24fff676d8984cc61c35d791612fadc58015335d97dd632375e18073",
+        "bytes": 21458735
+      },
+      "dataset/source_info.jsonl": {
+        "url": "https://raw.githubusercontent.com/ParticleMedia/RAGTruth/c103204b9ce28d6bbad859304bf30de72b8ed8fe/dataset/source_info.jsonl",
+        "sha256": "0dffc26ea9f3c1c3d7c7e8336b56ef1646e3cec876edffcca3c9c624d12d578b",
+        "bytes": 15117971
+      }
+    }
+  },
+  "rgb": {
+    "repo": "chen700564/RGB",
+    "commit": "65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615",
+    "files": {
+      "readme.md": {
+        "url": "https://raw.githubusercontent.com/chen700564/RGB/65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615/readme.md",
+        "sha256": "e924a72f4b46718dde52cd3eb603a7f6496a9658e931e3269461a88bf6b86c8a",
+        "bytes": 3604
+      },
+      "evalue.py": {
+        "url": "https://raw.githubusercontent.com/chen700564/RGB/65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615/evalue.py",
+        "sha256": "506436ffbd7b97a6cadeb34961f4b4a4a9f04bf8afe7a1729e467811243352c0",
+        "bytes": 9965
+      },
+      "fact_evalue.py": {
+        "url": "https://raw.githubusercontent.com/chen700564/RGB/65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615/fact_evalue.py",
+        "sha256": "c903ac0cc4f795fc9c45569ce62340f762420fc7f2a6ab7f646a7876577b803d",
+        "bytes": 5250
+      },
+      "reject_evalue.py": {
+        "url": "https://raw.githubusercontent.com/chen700564/RGB/65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615/reject_evalue.py",
+        "sha256": "06771cdcd778c535c1d29cafde1246d399780ce64b33914567dfcbcc26dd3d4e",
+        "bytes": 4613
+      },
+      "data/en_refine.json": {
+        "url": "https://raw.githubusercontent.com/chen700564/RGB/65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615/data/en_refine.json",
+        "sha256": "1be6ec4b85364b5590c7683ed4df8d47535ae21bc021bbcd3f44a71579f64bcb",
+        "bytes": 7229738
+      },
+      "data/en_fact.json": {
+        "url": "https://raw.githubusercontent.com/chen700564/RGB/65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615/data/en_fact.json",
+        "sha256": "92f4b2330ee407f74fbd923197028ef5140cfbc1f4b4092efec2d4d10ae6c9e5",
+        "bytes": 241320
+      },
+      "config/instruction.yaml": {
+        "url": "https://raw.githubusercontent.com/chen700564/RGB/65ec39e40e7dc9abb50e9bf1b4f32be3f6f16615/config/instruction.yaml",
+        "sha256": "0232a62c325544f7527d0c35bf672169f4ec14f04af722b22c2ea381070390e3",
+        "bytes": 1318
+      }
+    }
+  }
+}
